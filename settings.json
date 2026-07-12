@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ObsidianReign.aternos.me",
-    "port": 49761,
+    "ip": "mknasar085.aternos.me",
+    "port": 27605,
     "version": "1.21.11",
     "try-creative": false
   },
