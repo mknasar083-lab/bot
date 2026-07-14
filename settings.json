@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "mknasar085.aternos.me",
-    "port": 27605,
+    "ip": "CrownLands1.aternos.me",
+    "port": 26845,
     "version": "1.21.11",
     "try-creative": false
   },
